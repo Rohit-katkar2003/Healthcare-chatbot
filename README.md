@@ -45,8 +45,7 @@ python -m venv Chatbot
 Activate the environment:
 - **Windows:**
   Chatbot\Scripts\activate
-- **Mac/Linux:**
-  source Chatbot/bin/activate
+
 
 ### 3. Install Dependencies
 Install the required dependencies:

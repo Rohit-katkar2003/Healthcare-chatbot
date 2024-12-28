@@ -1,18 +1,21 @@
 ```bash
-# Healthcare Chatbot
+# **HEALTHCARE CHATBOT**
 
-This project is a healthcare chatbot designed to provide patients with health-related queries and consultations. The chatbot utilizes a fine-tuned **Flan-T5-base** model on domain-specific data, enabling efficient and accurate responses. The project is optimized to work seamlessly on CPU, making it accessible and cost-effective.
+## **🚀 Project Overview**
+This project is a **healthcare chatbot** designed to provide patients with health-related queries and consultations. By leveraging a fine-tuned **Flan-T5-base** model, the chatbot delivers domain-specific responses with high efficiency and accuracy. 
 
-## Features
-- **Health-related Query Assistance:** Provides accurate responses to medical queries.
-- **Consultation Support:** Assists patients with personalized healthcare advice.
-- **Fine-Tuned Model:** Flan-T5-base model fine-tuned on healthcare-specific data for improved performance.
-- **CPU-Friendly:** Designed to work efficiently on systems without GPUs.
+This solution is optimized to run seamlessly on **CPU**, making it cost-effective and accessible to a wider audience without requiring GPU resources.
+
+## **✨ Features**
+- **🩺 Health-related Query Assistance:** Provides instant and accurate responses to medical questions.
+- **💡 Consultation Support:** Assists patients with personalized healthcare advice based on their queries.
+- **🔧 Fine-Tuned Model:** Utilizes a Flan-T5-base model fine-tuned on healthcare-specific data for enhanced performance.
+- **💻 CPU-Friendly:** Designed to operate efficiently without the need for GPU resources, ensuring broader accessibility.
 
 ---
 
-## Project Structure
-The project follows the structure below:
+## **📂 Project Structure**
+The project adheres to the following structure:
 
 Healthcare-Chatbot/
 ├── src/
@@ -31,74 +34,77 @@ Healthcare-Chatbot/
 
 ---
 
-## Getting Started
+## **⚙️ Getting Started**
 
-### 1. Download the Project
+### **1️⃣ Download the Project**
 Clone the repository to your local machine:
 git clone https://github.com/Rohit-katkar2003/Healthcare-chatbot.git
 cd Healthcare-chatbot
 
-### 2. Create and Activate a Virtual Environment
+### **2️⃣ Create and Activate a Virtual Environment**
 Create a virtual environment named `Chatbot`:
 python -m venv Chatbot
 
 Activate the environment:
 - **Windows:**
   Chatbot\Scripts\activate
+- **Mac/Linux:**
+  source Chatbot/bin/activate
 
-
-### 3. Install Dependencies
+### **3️⃣ Install Dependencies**
 Install the required dependencies:
 pip install -r requirements.txt
 
-### 4. Run the Application
+### **4️⃣ Run the Application**
 Start the chatbot application:
 python app.py
 
 ---
 
-## Fine-Tuned Model
-The chatbot uses a fine-tuned **Flan-T5-base** model. The model was fine-tuned on a healthcare-specific dataset to ensure accurate and reliable responses. This allows the chatbot to:
-- Understand complex healthcare-related questions.
-- Provide precise and context-aware answers.
+## **🤖 Fine-Tuned Model**
+The chatbot utilizes a fine-tuned **Flan-T5-base** model, specifically trained on healthcare-related data. This allows the chatbot to:
+- 🧠 Understand and interpret complex medical queries.
+- 🏥 Provide precise, context-aware answers for patient inquiries.
+- 📊 Enhance accuracy and relevance in healthcare consultations.
 
 ---
 
-## Usage
-1. Navigate to the local server URL displayed after running the application (usually `http://127.0.0.1:5000`).
-2. Enter your query in the chat interface.
-3. Receive a response tailored to your healthcare question.
+## **🛠️ Usage**
+1. Launch the chatbot by running the app.
+2. Open the local server URL (typically `http://127.0.0.1:5000`).
+3. Input health-related queries through the chat interface.
+4. Receive personalized and relevant responses instantly.
 
 ---
 
-## Future Enhancements
-- Integration with real-time medical databases for updated responses.
-- Multi-language support for diverse user bases.
-- Mobile application version for ease of access.
+## **🔮 Future Enhancements**
+- 🌐 **Real-time Medical Data Integration:** Connect to live medical databases for up-to-date information.
+- 🗣️ **Multi-language Support:** Enable chatbot functionality in various languages.
+- 📱 **Mobile Application:** Develop a mobile-friendly version for greater accessibility.
 
 ---
 
-## Contributing
-Contributions are welcome! Follow these steps to contribute:
-1. Fork the repository.
+## **🤝 Contributing**
+Contributions are always welcome! Follow these steps to contribute:
+1. **Fork** the repository.
 2. Create a new branch:
 git checkout -b feature-branch
-3. Commit your changes:
+3. **Commit** your changes:
 git commit -m "Add new feature"
-4. Push to the branch:
+4. **Push** to the branch:
 git push origin feature-branch
-5. Open a pull request.
+5. Open a **pull request**.
 
 ---
 
-## License
+## **📜 License**
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contact
-For any queries or support, feel free to contact:
-**Rohit B. Katkar**  
-[GitHub Profile](https://github.com/Rohit-katkar2003)
+## **📧 Contact**
+For any queries or support, feel free to reach out:
+**👨‍💻 Rohit B. Katkar**  
+🔗 [GitHub Profile](https://github.com/Rohit-katkar2003)
 ```
 

@@ -1,4 +1,4 @@
-```bash
+
 # **HEALTHCARE CHATBOT**
 
 ## **🚀 Project Overview**

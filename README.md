@@ -16,7 +16,7 @@ This solution is optimized to run seamlessly on **CPU**, making it cost-effectiv
 
 ## **📂 Project Structure**
 The project adheres to the following structure:
-
+```bash
 Healthcare-Chatbot/
 ├── src/
 │   ├── __init__.py        # Package initialization
@@ -32,8 +32,8 @@ Healthcare-Chatbot/
 ├── templates/
 │   └── chat.html          # HTML template for the chat interface
 
+```
 ---
-
 ## **⚙️ Getting Started**
 
 ### **1️⃣ Download the Project**

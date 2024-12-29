@@ -1,13 +1,12 @@
 sentence-transformers==2.2.2 
 langchain==0.3.1 
+tensorflow
+transformers
 flask 
 pypdf
 python-dotenv
-pinecone[grpc]
-langchain-pinecone
-langchain_community
-langchain_openai
+langchain_community 
+langchain_core
 langchain_experimental
-ctransformers==0.2.5
 streamlit==1.39.0
 -e .
